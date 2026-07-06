@@ -3,6 +3,7 @@
 An AI-powered Agricultural Recommendation System that uses Machine Learning to optimize crop production based on soil and environmental parameters. The application provides intelligent crop recommendations through a simple Flask web interface, helping farmers maximize yield and resource efficiency.
 
 
+
  📌 Project Overview
 
 Agriculture is the backbone of many economies, but optimizing crop production remains a challenge due to varying soil and climate conditions. Timely and data-driven crop selection enables farmers to improve yield, reduce costs, and promote sustainable farming.
@@ -10,6 +11,7 @@ Agriculture is the backbone of many economies, but optimizing crop production re
 This project uses historical soil and environmental data to train multiple machine learning models and recommend the most suitable crop to grow. The best-performing model is integrated into a Flask web application, allowing users to enter parameters like NPK, temperature, humidity, pH, and rainfall to instantly receive a crop recommendation.
 
 The OptiCrop engine helps farmers, researchers, agribusiness companies, and policymakers make evidence-based decisions for better productivity, sustainability, and resource utilization.
+
 
 
 🎯 Objectives
@@ -20,6 +22,7 @@ The OptiCrop engine helps farmers, researchers, agribusiness companies, and poli
 - Compare multiple machine learning algorithms and select the best-performing model.
 - Support sustainable and data-driven farming practices.
 - Enable future deployment on cloud platforms.
+
 
 
  ✨ Features
@@ -37,6 +40,7 @@ The OptiCrop engine helps farmers, researchers, agribusiness companies, and poli
 - Flask-based web application
 - Interactive crop recommendation dashboard
 - Instant Crop Recommendation based on input parameters
+
 
 
  🛠️ Technology Stack
@@ -64,6 +68,7 @@ Frontend
 - Jupyter Notebook
 
 
+
  📁 Project Structure
 
 ```
@@ -84,7 +89,8 @@ OptiCrop/
 ```
 
 
-## ⚙️ Installation
+
+⚙️ Installation
 
 **Clone the repository:**
 ```bash
@@ -112,6 +118,7 @@ http://127.0.0.1:5000
 ```
 
 
+
  💻 How to Use
 
 1. Open the application.
@@ -119,6 +126,7 @@ http://127.0.0.1:5000
 3. Enter soil and environmental parameters: N, P, K, Temperature, Humidity, pH, Rainfall.
 4. Click Get Recommendation.
 5. View the recommended crop for maximum yield.
+
 
 
 📊 Machine Learning Workflow
@@ -135,6 +143,7 @@ http://127.0.0.1:5000
 10. User Recommendation
 
 
+
 🧠 Models Used
 
 - K-Nearest Neighbors (KNN)
@@ -144,6 +153,7 @@ http://127.0.0.1:5000
 - K-Means Clustering
 
 The models were trained and evaluated on historical agricultural data containing soil nutrients and environmental parameters. The best-performing model was selected and integrated into the Flask application for crop recommendation.
+
 
 
 🚀 Future Enhancements
@@ -160,11 +170,13 @@ The models were trained and evaluated on historical agricultural data containing
 
 
  👥 Team Members
+ 
  1. Nidhrabingi Kavitha - Team lead
  2. Anusuri Asha Deepa - Member
  3.  Keerthana Adam - Member
  4.  Siva Nagendra Egaia - Member
  5.  Birada Jaswanth - Member
+
 
 
 🖥️ System Requirements
@@ -184,9 +196,11 @@ Software Requirements
 - Flask Framework
 
 
+
  📄 License
 
 This project is developed for educational and academic purposes.
+
 
 
  ⭐ Acknowledgement
