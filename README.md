@@ -86,17 +86,30 @@ OptiCrop/
 
 ## ⚙️ Installation
 
-*Clone the repository:*
+**Clone the repository:**
 ```bash
-git clone https://github.com/your-username/opticro p-smart-agricultural-optimization
-Move into the project directory:
-cd opticro p-smart-agricultural-optimization
-Install the required dependencies:
+git clone https://github.com/Nidhrabingi-Kavitha/OptiCrop.git
+```
+
+**Move into the project directory:**
+```bash
+cd OptiCrop
+```
+
+**Install the required dependencies:**
+```bash
 pip install -r requirements.txt
-Run the Flask application:
+```
+
+**Run the Flask application:**
+```bash
 python app.py
-Open your browser and visit:
-http://127.0.0.1:5000 
+```
+
+**Open your browser and visit:**
+```
+http://127.0.0.1:5000
+```
 
 
  💻 How to Use
