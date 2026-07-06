@@ -66,9 +66,8 @@ Frontend
 
  📁 Project Structure
 
-opticro p-smart-agricultural-optimization/
+```
 OptiCrop/
-│
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -82,6 +81,7 @@ OptiCrop/
 │   ├── index.html
 │   └── result.html
 └── notebooks/
+```
 
 
  ⚙️ Installation
