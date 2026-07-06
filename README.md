@@ -67,9 +67,9 @@ Frontend
  📁 Project Structure
 
 opticro p-smart-agricultural-optimization/
-├── http://app.py
-├── http://requirements.txt
-├── http://README.md
+├── app.py
+├── hrequirements.txt
+├── README.md
 ├── dataset/
 ├── models/
 ├── static/
@@ -77,9 +77,9 @@ opticro p-smart-agricultural-optimization/
 │   ├── js/
 │   └── images/
 ├── templates/
-│   ├── http://index.html
-│   ├── http://predict.html
-│   └── http://result.html
+│   ├── index.html
+│   ├── predict.html
+│   └── result.html
 └── notebooks / training files
 
 
