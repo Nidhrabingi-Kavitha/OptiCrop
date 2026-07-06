@@ -67,37 +67,43 @@ Frontend
  📁 Project Structure
 
 opticro p-smart-agricultural-optimization/
+OptiCrop/
+│
 ├── app.py
-├── hrequirements.txt
+├── requirements.txt
 ├── README.md
 ├── dataset/
-├── models/
+├── model/
 ├── static/
 │   ├── css/
 │   ├── js/
 │   └── images/
 ├── templates/
 │   ├── index.html
-│   ├── predict.html
 │   └── result.html
-└── notebooks / training files
+└── notebooks/
 
 
  ⚙️ Installation
 
 Clone the repository:
+
 git clone https://github.com/your-username/opticro p-smart-agricultural-optimization
 
 Move into the project directory:
+
 cd opticro p-smart-agricultural-optimization
 
 Install the required dependencies:
+
 pip install -r requirements.txt
 
 Run the Flask application:
+
 python app.py
 
 Open your browser and visit:
+
 http://127.0.0.1:5000
 
 
