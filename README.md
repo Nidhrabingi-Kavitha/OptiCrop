@@ -210,3 +210,11 @@ We thank our mentors, faculty members, teammates, and the providers of the agric
 
 
 
+Demo Video
+
+🎥 Demo Video:
+https://drive.google.com/file/d/1F9WYG1dns7xFmOMZ-50XUHKvrgeIrSrB/view?usp=drivesdk
+
+
+
+
